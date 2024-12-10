@@ -6,8 +6,6 @@
     --main-font-size: 18px;
 }
 
-
-
 * {
     box-sizing: border-box;
 }
@@ -58,4 +56,10 @@ body {
     font-weight: bold;
     margin-top: 15px;
     margin-bottom: 50px;
+}
+
+.main {
+    background: #6d7072;
+    color: #fff;
+    font-size: 18px;
 }
