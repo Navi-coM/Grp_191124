@@ -1,4 +1,4 @@
-@import url('./_normalize.css');
+on@import url('./_normalize.css');
 
 
 /* -------- Створення змінних--------- */
@@ -62,6 +62,9 @@ body {
     background: #6d7072;
     color: #fff;
     font-size: 18px;
+}
+section {
+    border: 1px solid #000;
 }
 .footer {
     padding: 20px;
