@@ -64,7 +64,7 @@ body {
     font-size: 18px;
 }
 .footer {
-    padding: 20px;
+    padding: 40px;
     background-color: grey;
-    text-align: center;
+    text-align: left;
 }
